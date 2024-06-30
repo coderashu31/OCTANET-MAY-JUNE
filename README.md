@@ -3,7 +3,7 @@ This repository contains multiple projects completed during the OctaNet-May-June
 
 ## List OF Tasks:
 - **Task 1**: Landing Page(https://octanet-may-j-git-bd2de8-ashish-kumar-mishras-projects-f4fd859d.vercel.app/)
-- **Task 2**: ToDo List()
+- **Task 2**: ToDo List(https://octanet-may-june-x3ua.vercel.app/)
 - **Task 3**:
 
 ### Task 1: Landing Page
