@@ -2,7 +2,7 @@
 This repository contains multiple projects completed during the OctaNet-May-June internship program.
 
 ## List OF Tasks:
-- **Task 1**: Landing Page()
+- **Task 1**: Landing Page(https://octanet-may-j-git-bd2de8-ashish-kumar-mishras-projects-f4fd859d.vercel.app/)
 - **Task 2**: ToDo List()
 - **Task 3**:
 
